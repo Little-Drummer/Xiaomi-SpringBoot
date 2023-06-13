@@ -19,13 +19,10 @@
 
 **后端接口全部采用Resultful风格，因此前端接口以及部分内容也有修改。**
 
-前端项目地址：https://github.com/ZeroWdd/vue-store
+前端项目地址：https://github.com/Little-Drummer/xiaomi-vue-store
 
-后端项目地址：https://github.com/ZeroWdd/Xiaomi
+后端项目地址：https://github.com/Little-Drummer/Xiaomi-SpringBoot
 
-## 项目已部署
-
-仿小米商城： http://47.95.254.97:8080/
 
 ## 技术栈
 
@@ -53,7 +50,7 @@
 ```
 1. Clone project
 
-git clone https://github.com/ZeroWdd/vue-store.git
+git clone https://github.com/Little-Drummer/xiaomi-vue-store.git
 
 2. Project setup
 
